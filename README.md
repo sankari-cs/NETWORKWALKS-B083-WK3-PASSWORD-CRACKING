@@ -53,13 +53,21 @@ Both approaches demonstrate how dictionary-based attacks can be used to recover 
 
 **TARGET:** My-Locked-PDF1.pdf
 
-![PDF Hash Extraction](screenshots/task1-hash-extraction.png)
+### PDF Hash Extraction
 
-![Johnny Configuration](screenshots/task1-johnny-configuration.png)
+![PDF Hash Extraction](PDF%20Hash%20Extraction.png)
 
-![Password Cracking](screenshots/task1-password-cracking.png)
+### John Configuration
 
-![Password Recovered](screenshots/task1-password-recovered.png)
+![John Configuration](John%20Configuration.png)
+
+### Password Cracking
+
+![Password Cracking](Password%20Cracking%20task2.png)
+
+### Password Recovered
+
+![Password Recovered](Password%20Recovered.png)
 
 ---
 
@@ -67,13 +75,35 @@ Both approaches demonstrate how dictionary-based attacks can be used to recover 
 
 **TARGET:** My-Locked-PDF2.pdf
 
-![PDF Hash Extraction](screenshots/task2-hash-extraction.png)
+### PDF Hash Extraction
 
-![Johnny Configuration](screenshots/task2-johnny-configuration.png)
+![PDF Hash Extraction](PDF%20Hash%20Extraction.png)
 
-![Password Cracking](screenshots/task2-password-cracking.png)
+### Johnny Configuration
 
-![Password Recovered](screenshots/task2-password-recovered.png)
+![Johnny Configuration](Johnny%20Configuration.png)
+
+### Password Cracking
+
+![Password Cracking](Password%20Cracking%20task2.png)
+
+### Password Recovered
+
+![Password Recovered](Password%20Recovered%20pdf.png)
+
+---
+
+## TASK 3
+
+**TARGET:** My-Locked-PDF2.pdf
+
+### Flag Recovered
+
+![Flag Recovered](Flag%20recorved.png)
+
+### Flag Recovered — Final Result
+
+![Flag Recovered](Flag%20recovered1.png)
 
 ---
 
@@ -112,7 +142,7 @@ Both approaches demonstrate how dictionary-based attacks can be used to recover 
 
 ## 📸 Screenshots
 
-Screenshots showing **hash extraction, wordlist attacks, and successful password recovery** are included in the `/screenshots` folder of this repository.
+Screenshots showing **hash extraction, tool configuration, wordlist attacks, and successful password recovery** are included in the repository.
 
 ---
 
